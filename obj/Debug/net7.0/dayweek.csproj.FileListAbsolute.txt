@@ -1,0 +1,5 @@
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.csproj.AssemblyReference.cache
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.AssemblyInfoInputs.cache
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.AssemblyInfo.cs
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.csproj.CoreCompileInputs.cache
