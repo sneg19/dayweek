@@ -3,3 +3,13 @@
 /home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.AssemblyInfoInputs.cache
 /home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.AssemblyInfo.cs
 /home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/dayweek/bin/Debug/net7.0/dayweek
+/home/sneg/Documents/dayweek/bin/Debug/net7.0/dayweek.deps.json
+/home/sneg/Documents/dayweek/bin/Debug/net7.0/dayweek.runtimeconfig.json
+/home/sneg/Documents/dayweek/bin/Debug/net7.0/dayweek.dll
+/home/sneg/Documents/dayweek/bin/Debug/net7.0/dayweek.pdb
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.dll
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/refint/dayweek.dll
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.pdb
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/dayweek.genruntimeconfig.cache
+/home/sneg/Documents/dayweek/obj/Debug/net7.0/ref/dayweek.dll
